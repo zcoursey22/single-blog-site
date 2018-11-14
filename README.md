@@ -1,5 +1,6 @@
 # single-blog-site
 A blog made for a single admin built in Node.js.
+Project management: https://trello.com/b/99gPtm6z/single-blog-site
 
 ## Technologies
 - React + React Router
