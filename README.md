@@ -6,6 +6,7 @@ Project management: https://trello.com/b/99gPtm6z/single-blog-site
 - React + React Router
 - Express
 - PostgreSQL hosted on AWS
+- Passport.js
 - Chart.js
 
 ## Features
